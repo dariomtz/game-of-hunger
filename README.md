@@ -3,10 +3,10 @@
 A python CLI game online.
 
 #### Requirements
-You only need to download [Pyrebase](https://github.com/thisbejim/Pyrebase) and have it aviable in the enviroment you will be running the game_of_hunger.py script.
+* Download [Pyrebase](https://github.com/thisbejim/Pyrebase).
 
 #### How to play?
-Download both scripts and place them in the same folder. Run game_of_hunger with Python 3. Follow the instructions on screen.
+Download both scripts and place them in the same folder. Run game_of_hunger.py with Python 3. Follow the instructions on screen.
 
 #### Instructions
 
@@ -35,8 +35,8 @@ Download both scripts and place them in the same folder. Run game_of_hunger with
 Then, you will be asked to either create or join a room.
 
 #### Features
-* You can play with any person that has the scripts and access to internet.
-* The game will go on as long as none of the players force quit the app you are running the script on.
+* Can be played with any person that has the scripts and access to internet.
+* The game will go on as long as none of the players force quit the app in which the program is running.
 * If one of the two players keeps the script running, the other player can join back to continue playing.
 
 
